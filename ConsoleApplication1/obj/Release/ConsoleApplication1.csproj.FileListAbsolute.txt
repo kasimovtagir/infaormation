@@ -1,0 +1,7 @@
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Release\itextsharp.dll
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Release\itextsharp.xml
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

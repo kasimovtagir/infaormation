@@ -1,0 +1,8 @@
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\itextsharp.dll
+D:\ADMIV V1 BETTA\ConsoleApplication1\ConsoleApplication1\bin\Debug\itextsharp.xml
